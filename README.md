@@ -1,25 +1,24 @@
-# 📊 Tax Engine & Expense Calculator
+# 📊 Micro-SaaS & Tax Engine Tool Setup
 
-> A complete automation tool designed to calculate, categorize, and process taxes and expenses seamlessly.
-
----
-
-## 📖 Setup Guide & Manual
-* **User Manual:** Download and open `tax_engine_manual.pdf` included directly in this repository for full setup and usage instructions.
-* **Official Downloads & Updates:** Get full feature packs and updates on our [Payhip Store](https://payhip.com).
+> Complete documentation, setup manuals, and blueprints for setting up and running your Micro-SaaS tool.
 
 ---
 
-## ⚡ Quick Start
+## 📖 Included Documentation & Manuals
+* **Installation Manual:** `Micro-SaaS Store Installation Manual.pdf`
+* **Installation Guide:** `Micro-SaaS Store Installation Guide.pdf`
+* **Execution Blueprint:** `Micro-SaaS & Digital Product Store Execution.pdf`
 
-### 1. Requirements
-* Python 3.9+ installed on your environment.
+---
 
-### 2. Installation & Run
-```bash
-# Clone repository
-git clone [https://github.com/your-username/tax-engine-calculator.git](https://github.com/your-username/tax-engine-calculator.git)
-cd tax-engine-calculator
+## ⚡ Quick Start Guide
 
-# Execute tool
-python main.py
+### 1. Installation
+1. Open the installation PDF files listed above for step-by-step instructions.
+2. Configure your environment variables and execution paths as described in the setup manual.
+
+---
+
+## 🛒 Store & Official Upgrades
+For full tool updates, complementary packages, and additional automation suites:
+👉 **[Visit our Payhip Store](https://payhip.com)**
